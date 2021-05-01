@@ -26,7 +26,7 @@ This includes all Srilankan Municipal Councils, Urban Councils and Pradeshiya Sa
 
 via composer
 
-`composer require dinushchathurya/local-authorities`
+`composer require dinushchathurya/srilankan-local-authrities`
 
 ### Usage 
 
