@@ -1,0 +1,21 @@
+{
+    "name": "dinushchathurya/srilankan-local-authrities",
+    "description": "This includes all Srilankan Urban counsils, Municipal counsils and Pradeshiya Sabha",
+    "type": "package",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "dinushchathurya",
+            "email": "dinushchathurya21@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dinushchathurya\\Council\\": "src/"
+        }
+    }
+}
