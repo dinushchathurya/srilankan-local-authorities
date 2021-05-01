@@ -1,6 +1,6 @@
 {
     "name": "dinushchathurya/srilankan-local-authorities",
-    "description": "This includes all Srilankan Urban counsils, Municipal counsils and Pradeshiya Sabha",
+    "description": "This includes all Srilankan Urban councils, Municipal councils and Pradeshiya Sabha",
     "keywords": ["SriLankan Local Authorities", "SriLankan Municipal Councils", "Srilankan Urban Councils", "Srilankan Pradeshiya Sabha", "Local Authorities in SriLanka", "Municipal Councils Uraban Councils Pradeshiya Sabha in SriLanka", "Municipal Councils in SriLanka", "Urban Councils in SriLanka", "Pradeshiya Sabha in SriLanka"],
     "type": "package",
     "license": "BSD-3-Clause",
