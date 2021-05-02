@@ -20,7 +20,7 @@ class Council{
         }
     }
 
-    public static $Counsil = array(
+    public static $Council = array(
         'Western' => array(
             'Colombo' =>
                 array(
