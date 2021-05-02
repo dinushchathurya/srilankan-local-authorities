@@ -42,10 +42,10 @@ public function exampleFunction(){
 }
 ```
 # Documentataion
-You can find the documentation for this package from [here]() .
+You can find the documentation for this package from [here](https://srilankan-local-authorities.herokuapp.com/documentation) .
 
 # Working demo
-You can find the working demo for this package from [here]() .
+You can find the working demo for this package from [here](https://srilankan-local-authorities.herokuapp.com/) .
 
 # Contributing
 
